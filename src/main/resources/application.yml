@@ -1,0 +1,63 @@
+spring:
+  mvc:
+    async:
+      request-timeout: 60s
+  application:
+    name: test
+
+logging:
+  level:
+    com.idexx.test: debug
+    org.springframework: info
+    io.github.resilience4j: debug
+
+management.metrics.distribution.percentiles-histogram.http.server.requests: true
+management.metrics.distribution.percentiles-histogram.resilience4j.circuitbreaker.calls: true
+
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include:
+          - health
+          - metrics
+          - prometheus
+
+resilience4j.circuitbreaker:
+  configs:
+    default:
+      registerHealthIndicator: true
+      slidingWindowSize: 10
+      minimumNumberOfCalls: 5
+      permittedNumberOfCallsInHalfOpenState: 3
+      automaticTransitionFromOpenToHalfOpenEnabled: true
+      waitDurationInOpenState: 5s
+      failureRateThreshold: 50
+      eventConsumerBufferSize: 10
+  instances:
+    google-api:
+      baseConfig: default
+    apple-api:
+      baseConfig: default
+resilience4j.retry:
+  configs:
+    default:
+      maxRetryAttempts: 3
+      waitDuration: 100
+  instances:
+    google-api:
+      baseConfig: default
+    apple-api:
+      baseConfig: default
+resilience4j.bulkhead:
+  configs:
+    default:
+      maxConcurrentCalls: 100
+  instances:
+    google-api:
+      maxConcurrentCalls: 10
+    apple-api:
+      maxConcurrentCalls: 10

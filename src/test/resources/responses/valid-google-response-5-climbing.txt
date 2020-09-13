@@ -1,0 +1,423 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 525,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "ehYmcMQAp4QC",
+            "etag": "z4VdqIUTRDM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ehYmcMQAp4QC",
+            "volumeInfo": {
+                "title": "Sport Climbing",
+                "subtitle": "From Top Rope to Redpoint, Techniques for Climbing Success",
+                "authors": [
+                    "Andrew Bisharat"
+                ],
+                "publisher": "The Mountaineers Books",
+                "publishedDate": "2009",
+                "description": "Sport climbers often project a route that tests their physical limits in hopes of an eventual completion, regardless of the number of attempts. Succeeding requires a solid understanding of belaying and other climbing techniques that are used in various climbing disciplines, but are detailed here specifically for sport climbing. Targeting varying abilities, Sport Climbing teaches climbers how to rehearse moves and train for routes, how to get through the pump, how to fight until the endof a pitch, how to stay composed when tired, and how to best use their bodies to climb efficiently and expertly. Whether inspiring new climbers to learn the nuances of scaling vertical terrain, or delving into a deeper, more conceptual understanding of how to go about projecting a route, Andrew Bisharat brings confidence and a level of practicality to the sport. He demonstrates how skills specific to redpointing transfer over to traditional climbing, making this a must-have book for any climber.Featuring tips from famous climbers such as Tommy Caldwell and Alex Honnold, the author brings a modern voice to a fun and exciting sport.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781594854613"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1594854610"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 254,
+                "printType": "BOOK",
+                "categories": [
+                    "Sports & Recreation"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 3,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ehYmcMQAp4QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ehYmcMQAp4QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.nl/books?id=ehYmcMQAp4QC&printsec=frontcover&dq=climbing&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.nl/books?id=ehYmcMQAp4QC&dq=climbing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sport_Climbing.html?hl=&id=ehYmcMQAp4QC"
+            },
+            "saleInfo": {
+                "country": "NL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "NL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.nl/books/download/Sport_Climbing-sample-pdf.acsm?id=ehYmcMQAp4QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ehYmcMQAp4QC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Targeting varying abilities, Sport Climbing teaches climbers how to rehearse moves and train for routes, how to get through the pump, how to fight until the endof a pitch, how to stay composed when tired, and how to best use their bodies to ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "tcYwDoJzxFwC",
+            "etag": "WqF4bfcKVMU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/tcYwDoJzxFwC",
+            "volumeInfo": {
+                "title": "Climbing",
+                "subtitle": "Training for Peak Performance",
+                "authors": [
+                    "Clyde Soles"
+                ],
+                "publisher": "The Mountaineers Books",
+                "publishedDate": "2008",
+                "description": "\"Whatever your talent, experience, and ambition, if you climb you would do well to read Clyde Soles' training manual. This book will allow you to pull down harder, last longer, and have more fun while you're at it.\" - Jon Krakauer, author of \"Into Thin Air\"* Climbing exercises to build strength, endurance, flexibility, and aerobic fitness* Up-to-date nutritional information to power your climbing training* Climibing fitness tips that prepares you both mentally and physicallyClimbers at all levels benefit from working to build core strength, opening the door to higher levels of achievement. This important edition in the Mountaineers Outdoor Expert series covers everything you need to improve your climbing fitness in ways that takes your performance to the next level. There is even instruction on yoga, Pilates, and herbal supplements, as well as a section on core training. Climbing: Training for Peak Performance also contains information about rehabilitation after an injury, plus several new training programs.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781594854347"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1594854343"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 269,
+                "printType": "BOOK",
+                "categories": [
+                    "Sports & Recreation"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=tcYwDoJzxFwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=tcYwDoJzxFwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.nl/books?id=tcYwDoJzxFwC&printsec=frontcover&dq=climbing&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.nl/books?id=tcYwDoJzxFwC&dq=climbing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Climbing.html?hl=&id=tcYwDoJzxFwC"
+            },
+            "saleInfo": {
+                "country": "NL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "NL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.nl/books/download/Climbing-sample-pdf.acsm?id=tcYwDoJzxFwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=tcYwDoJzxFwC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Whatever your talent, experience, and ambition, if you climb you would do well to read Clyde Soles&#39; training manual. This book will allow you to pull down harder, last longer, and have more fun while you&#39;re at it."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "riQlDwAAQBAJ",
+            "etag": "P6mwq4YQlFk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/riQlDwAAQBAJ",
+            "volumeInfo": {
+                "title": "The Science of Climbing and Mountaineering",
+                "authors": [
+                    "Ludovic Seifert",
+                    "Peter Wolf",
+                    "Andreas Schweizer"
+                ],
+                "publisher": "Taylor & Francis",
+                "publishedDate": "2016-09-19",
+                "description": "This is the first book to explore in depth the science of climbing and mountaineering. Written by a team of leading international sport scientists, clinicians and climbing practitioners, it covers the full span of technical disciplines, including rock climbing, ice climbing, indoor climbing and mountaineering, across all scientific fields from physiology and biomechanics to history, psychology, medicine, motor control, skill acquisition, and engineering. Striking a balance between theory and practice, this uniquely interdisciplinary study provides practical examples and illustrative data to demonstrate the strategies that can be adopted to promote safety, best practice, injury prevention, recovery and mental preparation. Divided into six parts, the book covers all essential aspects of the culture and science of climbing and mountaineering, including: physiology and medicine biomechanics motor control and learning psychology equipment and technology. Showcasing the latest cutting-edge research and demonstrating how science translates into practice, The Science of Climbing and Mountaineering is essential reading for all advanced students and researchers of sport science, biomechanics and skill acquisition, as well as all active climbers and adventure sport coaches.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781317403166"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1317403169"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 308,
+                "printType": "BOOK",
+                "categories": [
+                    "Medical"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=riQlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=riQlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.nl/books?id=riQlDwAAQBAJ&printsec=frontcover&dq=climbing&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=riQlDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=riQlDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "NL",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 42.5,
+                    "currencyCode": "EUR"
+                },
+                "retailPrice": {
+                    "amount": 31.45,
+                    "currencyCode": "EUR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=riQlDwAAQBAJ&rdid=book-riQlDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 42500000,
+                            "currencyCode": "EUR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 31450000,
+                            "currencyCode": "EUR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "NL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.nl/books/download/The_Science_of_Climbing_and_Mountaineeri-sample-pdf.acsm?id=riQlDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=riQlDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This is the first book to explore in depth the science of climbing and mountaineering."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "KErVkX-YESoC",
+            "etag": "mCra2fo6lVM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KErVkX-YESoC",
+            "volumeInfo": {
+                "title": "Climbing Walls",
+                "subtitle": "A Complete Guide",
+                "authors": [
+                    "Jim Stiehl",
+                    "Tim B. Ramsey"
+                ],
+                "publisher": "Human Kinetics",
+                "publishedDate": "2005",
+                "description": "This book is a complete guide for instructors and administrators, who can use this book to: design and select equipment options for climbing walls based on up-to-date industry standards and guidelines; customize their walls to accommodate the particular needs of their sites or situations; operate and maintain their walls; develop and implement operating procedures; and teach basic climbing skills and 15 climbing wall games to diverse populations.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0736048316"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780736048316"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 172,
+                "printType": "BOOK",
+                "categories": [
+                    "Education"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=KErVkX-YESoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=KErVkX-YESoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.nl/books?id=KErVkX-YESoC&printsec=frontcover&dq=climbing&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.nl/books?id=KErVkX-YESoC&dq=climbing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Climbing_Walls.html?hl=&id=KErVkX-YESoC"
+            },
+            "saleInfo": {
+                "country": "NL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "NL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=KErVkX-YESoC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book is a complete guide for instructors and administrators, who can use this book to: design and select equipment options for climbing walls based on up-to-date industry standards and guidelines; customize their walls to accommodate ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "9oCJDwAAQBAJ",
+            "etag": "LAgSxyVt+Z4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/9oCJDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Climbing",
+                "subtitle": "From Single Pitch to Multipitch",
+                "authors": [
+                    "Ron Funderburke"
+                ],
+                "publisher": "Rowman & Littlefield",
+                "publishedDate": "2019-05-01",
+                "description": "This continuation of FalconGuides’ progressive climbing series invites single pitch climbers to responsibly venture beyond the chains, into the realm of multi-pitch climbing. The farther from the ground a climb leads, the more technical proficiency and careful planning will make the difference between a worthy adventure and miserable epic. Climbing: From Single Pitch to Multi-Pitch complements instruction, ground school, and practice with a procedural approach to planning and preparation, leading anchoring and belaying, transitions, technical descent, and emergency preparedness. Before you get in way way over your head, make sure the essential skills outlined in this book have been reviewed, rehearsed, and individualized.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781493027675"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1493027670"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 160,
+                "printType": "BOOK",
+                "categories": [
+                    "Sports & Recreation"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=9oCJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=9oCJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.nl/books?id=9oCJDwAAQBAJ&printsec=frontcover&dq=climbing&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=9oCJDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9oCJDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "NL",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 14.12,
+                    "currencyCode": "EUR"
+                },
+                "retailPrice": {
+                    "amount": 9.6,
+                    "currencyCode": "EUR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=9oCJDwAAQBAJ&rdid=book-9oCJDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 14120000,
+                            "currencyCode": "EUR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9600000,
+                            "currencyCode": "EUR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "NL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.nl/books/download/Climbing-sample-epub.acsm?id=9oCJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.nl/books/download/Climbing-sample-pdf.acsm?id=9oCJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=9oCJDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Before you get in way way over your head, make sure the essential skills outlined in this book have been reviewed, rehearsed, and individualized."
+            }
+        }
+    ]
+}
