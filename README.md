@@ -76,29 +76,29 @@ Mechanism/architecture:
   - Docker (in case of Docker toolbox configure port forwarding and mount volumes manually)
   - Docker-compose
  
- 1. Build spring-boot-app:
+ #### 1. Build spring-boot-app:
   - mvn clean install
  
- 2. Build docker image:
+ #### 2. Build docker image:
   - mvn spring-boot:build-image
   
- 3. Start spring-boot-app and monitoring apps:
+ #### 3. Start spring-boot-app and monitoring apps:
   - cd ${project-dir}
   - docker-compose up
   - check endpoint http://localhost:8080 
  
- 4. Start React UI app (accept 3001 port for the application):
+ #### 4. Start React UI app (accept 3001 port for the application):
   - cd ${project-dir}/simple-react-ui
   - npm install react-scripts --save
   - npm start
  
- 5. Open browser and navigate to http://localhost:3001 
+ #### 5. Open browser and navigate to http://localhost:3001 
  You should see results for input (hardcoded in ${project-dir}/simple-react-ui/src/components/BooksAlbumsComponent.js)
  
- 6. Check apps health in Prometheus:
+ #### 6. Check apps health in Prometheus:
   - Open http://localhost:9090/ (Status -> Targets) both apps should be running
  
- 7. Open Grafana monitoring dashboard at  http://localhost:3000
+ #### 7. Open Grafana monitoring dashboard at  http://localhost:3000
   - login (admin, admin)
   - Add datasource, select Prometheus, type URL http://localhost:9090 and select access Browser. Save
   - Import dashboard: "+" -> Import -> Upload JSON file -> ${project-dir}/docker/grafana/dashboard.json. Import.
