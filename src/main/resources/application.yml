@@ -1,7 +1,4 @@
 spring:
-  mvc:
-    async:
-      request-timeout: 60s
   application:
     name: test
 

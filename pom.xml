@@ -20,17 +20,13 @@
         <resilience4j-version.version>1.4.0</resilience4j-version.version>
         <testcontainers-mockserver.version>1.12.3</testcontainers-mockserver.version>
         <mockserver-client-java.version>3.10.8</mockserver-client-java.version>
-        <springdoc-openapi-ui.version>1.4.6</springdoc-openapi-ui.version>
+        <springdoc-openapi-webflux-ui.version>1.4.6</springdoc-openapi-webflux-ui.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -92,8 +88,8 @@
         </dependency>
         <dependency>
             <groupId>org.springdoc</groupId>
-            <artifactId>springdoc-openapi-ui</artifactId>
-            <version>${springdoc-openapi-ui.version}</version>
+            <artifactId>springdoc-openapi-webflux-ui</artifactId>
+            <version>${springdoc-openapi-webflux-ui.version}</version>
         </dependency>
         <dependency>
             <groupId>io.projectreactor</groupId>
